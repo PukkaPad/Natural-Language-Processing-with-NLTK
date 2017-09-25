@@ -27,3 +27,14 @@ Lessons
 * Chunking with NLTK
 * Chinking with NLTK
 
+
+New concepts to me
+----------------------
+
+## Part-of-speech tagging:
+* From [wikepedia](https://en.wikipedia.org/wiki/Part-of-speech_tagging):
+    * is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, based on both its definition and its context
+
+## Chunking:
+* From the [docs](http://www.nltk.org/api/nltk.chunk.html):
+    * Typically, chunk parsers are used to find base syntactic constituents, such as base noun phrases
