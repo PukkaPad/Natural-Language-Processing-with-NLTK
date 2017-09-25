@@ -1,0 +1,15 @@
+### OSX ###
+.DS_Store
+
+*.pyc
+__pycache__
+*.zip
+/tests
+*~
+
+#sublime
+*.sublime-project
+*.sublime-workspace
+
+#viutualenv
+/nltk_python3
